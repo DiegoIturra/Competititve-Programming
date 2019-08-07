@@ -1,4 +1,4 @@
-//UVa 11764 Jumping Mario
+//UVa 11764 Jumping Mario(ACEPTADO)
 #include <iostream>
 using namespace std;
 
