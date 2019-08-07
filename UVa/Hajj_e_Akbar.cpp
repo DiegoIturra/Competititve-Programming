@@ -1,4 +1,4 @@
-//UVa 12577 Hajj-e-Akbar
+//UVa 12577 Hajj-e-Akbar(ACEPTADO)
 #include <iostream>
 using namespace std;
 
