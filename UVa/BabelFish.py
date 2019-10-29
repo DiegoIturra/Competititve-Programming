@@ -1,4 +1,5 @@
 #UVa 10282 Babelfish (ACEPTADO)
+#codigo propio
 from sys import stdin
 
 def main():
