@@ -10,7 +10,7 @@ int main(void){
             if(count%2 == 0){
                 printf("``");
             }
-            else if(count){
+            else if(count%2 != 0){
                 printf("''");
             }
             count++;
