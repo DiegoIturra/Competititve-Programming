@@ -36,6 +36,7 @@ int main(){
 		}
 
 		//segunda pasada para ver si alguien queda con saldo negativo
+		bool puedePagar = true;
 		for(int i=1 ; i<=numBancos ; i++){
 			if(bancos[i].dineroAlmacenado < 0){
 				puedePagar = false;
@@ -43,7 +44,6 @@ int main(){
 			}
 		}
 
-		bool puedePagar = true;
 		if(puedePagar) puts("S");
 		else puts("N");
 
