@@ -1,4 +1,4 @@
-#Uva 10679 I Love Strings!! (ACEPTADO)
+#UVa 10679 I Love Strings!! (ACEPTADO)
 import re
 
 testCases = int(input())
