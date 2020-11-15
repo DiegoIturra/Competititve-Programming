@@ -37,7 +37,7 @@ void process(int node){
 	}
 }
 
-/*Algoritmo de Prim para obtener un MST*/
+/*Algoritmo de Prim para obtener un MST,sacado de libro Competitive Programming 3*/
 int Prim(){
 	taken.assign(numNodes,false); //asignar memoria
 	process(0); //procesar nodo 0 inicialmente
